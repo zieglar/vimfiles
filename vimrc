@@ -119,7 +119,7 @@ map <Leader>ra :call RunAllSpecs()<CR>
 let g:rspec_runner = "os_x_iterm"
 
 "colorscheme blackboard  " 使用blackboard插件的配色
-colorscheme monokai
+colorscheme Tomorrow-Night-Eighties
 
 " taglist插件配置
 let Tlist_Show_One_File=1    " 不同时显示多个文件的tag，只显示当前文件的
